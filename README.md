@@ -6,7 +6,8 @@ The Multi-PDF's Chat Agent is a Streamlit-based web application designed to faci
 
 ## 🎯 How It Works:
 
-![alt text](image.png)
+![Architecture](https://github.com/user-attachments/assets/9c90ae71-5b0d-4de4-bc7d-b810c9a66d73)
+
 
 
 ### The application follows these steps to provide responses to your questions:
@@ -42,6 +43,7 @@ PyPDF2 : PyPDF2 is a library for reading and manipulating PDF files in Python. I
 faiss-cpu : FAISS (Facebook AI Similarity Search) is a library developed by Facebook for efficient similarity search, Machine Learning Embeddings,Information Retrieval, content-based filtering and clustering of dense vectors.
 langchain_google_genai : It is a package that provides an integration between LangChain and Google’s generative-ai SDK. It contains classes that extend the Embeddings class and provide methods for generating embeddings. The package can be used in a multipdf chatbot application to extract textual data from PDF documents and generate Accurate responses to user queries.
 
-![alt text](image-1.png)
 
+
+![CALMOutput](https://github.com/user-attachments/assets/5c9a999a-d1d3-4817-b013-f596e5db5bec)
 
